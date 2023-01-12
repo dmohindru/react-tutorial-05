@@ -8,3 +8,4 @@ This project contains three branches
 
 # Important
 - [Brief App descrition](https://www.udemy.com/course/react-redux/learn/lecture/34694302#content)
+- [App Component design 2:16mins](https://www.udemy.com/course/react-redux/learn/lecture/34694304#content)
