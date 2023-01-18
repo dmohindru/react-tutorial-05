@@ -13,3 +13,4 @@ This project contains three branches
 - [App Component design 2:16mins](https://www.udemy.com/course/react-redux/learn/lecture/34694304#content)
 - [React render optimizatoin and possible pitfalls with it](https://www.udemy.com/course/react-redux/learn/lecture/34694316#content)
 - [State Updates cheat sheet](https://state-updates.vercel.app/)
+- [Picsum photos](https://picsum.photos)
