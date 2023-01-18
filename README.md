@@ -7,6 +7,10 @@ This project contains three branches
 # Description
 1. Demonstarte how react state change system works (very important). See video (90 and 91).
 2. If you really want to understand in depth react state system. Do what optional videos (93-102).
+3. Phase 2 & 3 requires to run two different command to be run for project to run properly (see video 117)
+    npm run start
+    npm run server
+
 
 # Important
 - [Brief App descrition](https://www.udemy.com/course/react-redux/learn/lecture/34694302#content)
