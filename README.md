@@ -10,6 +10,7 @@ This project contains three branches
 3. Phase 2 & 3 requires to run two different command to be run for project to run properly (see video 117)
     npm run start
     npm run server
+4. Explains how to use useEffect function from react library (see video 125).
 
 
 # Important
