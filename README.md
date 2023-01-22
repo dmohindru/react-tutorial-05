@@ -11,6 +11,7 @@ This project contains three branches
     npm run start
     npm run server
 4. Explains how to use useEffect function from react library (see video 125).
+5. How to use Context in react system. Important Context is not a replacement to Props or Redux system.
 
 
 # Important
