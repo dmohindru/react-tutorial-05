@@ -1,10 +1,6 @@
 {
   "books": [
     {
-      "title": "Harry potter",
-      "id": 4
-    },
-    {
       "title": "Harry Potter The Dark secret",
       "id": 5
     },
