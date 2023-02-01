@@ -13,6 +13,7 @@ This project contains three branches
 4. Explains how to use useEffect function from react library (see video 125).
 5. How to use Context in react system. Important Context is not a replacement to Props or Redux system.
 6. Rudumentary usage of hooks.
+7. See section 9 for detailed analysis of problem using useEffect and how to fix it using useCallback hook.
 
 # Running this project
 Install the project

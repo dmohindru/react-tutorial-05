@@ -7,10 +7,10 @@ function App() {
 
     const { fetchBooks } = useContext(BooksContext);
 
-    // This function is always when App component is rendered first time.
+    // This function is always called when App component is rendered first time.
     useEffect(() => {
         fetchBooks();
-    }, []);
+    }, [fetchBooks]);
 
     
 
